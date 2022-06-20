@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NeilRow56
-- 👀 I’m interested in developing an app for accountants working papers
-- 🌱 I’m currently learning nextjs, chakra ui , mongodb
+- 👀 I’m interested in developing apps for accountants 
+- 🌱 I’m currently learning nextjs,react, tailwind css , mongodb
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
